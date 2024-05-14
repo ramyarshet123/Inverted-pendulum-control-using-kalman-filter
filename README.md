@@ -7,7 +7,7 @@ This project is done as a part of Machine Learning Course(CS530) at IIT Goa. The
 
 Files inside Project folder:
 
-1. InvertedPendulum2.py: This file contains the simulation code for the inverted pendulum system on a cart. 
+1. InvertedPendulum2.py: This file contains the simulation code required for the inverted pendulum system on a cart. 
 
 2. Without_Kalman_Filter(Only_LQR).py: This file implements a control strategy for stabilizing the inverted pendulum without using a Kalman filter. 
 
@@ -18,7 +18,7 @@ Files inside Project folder:
 
 Usage:
 
-1. Run Without_Kalman_Filter(Only_LQR).py or With_Kalman_Filter.py to visualize the simulation of the inverted pendulum system.
+1. Run Without_Kalman_Filter(Only_LQR).py or With_Kalman_Filter.py to visualize the simulation of the inverted pendulum system on cart.
 
 2. Use the 'a' and 'd' keys to apply external forces and observe the system's response.
 
