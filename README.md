@@ -16,8 +16,11 @@ Files inside Project folder:
 Usage:
 
 -Run inverted_pendulum.py to visualize the simulation of the inverted pendulum system.
+
 -Use the 'a' and 'd' keys to apply external forces and observe the system's response.
+
 -press 'q' to quit the simulation. After that it generates the plot between real and estimated values of parameters.
+
 
 Dependencies:
 
