@@ -13,29 +13,21 @@ Files inside Project folder:
 
 3. With_Kalman_Filter.py: This file implements a control strategy for stabilizing the inverted pendulum using a Kalman filter. 
 
-4. controllability_observability.m: This MATLAB file contains code to analyze the controllability and observability of the inverted pendulum system.
+4. controllability_observability.m: This MATLAB file contains code to check and experiment with the controllability and observability of the inverted pendulum system.
 
 
 Usage:
 
-1. Run inverted_pendulum.py to visualize the simulation of the inverted pendulum system.
+1. Run Without_Kalman_Filter(Only_LQR).py or With_Kalman_Filter.py to visualize the simulation of the inverted pendulum system.
 
 2. Use the 'a' and 'd' keys to apply external forces and observe the system's response.
 
-3. press 'q' to quit the simulation. After that it generates the plot between real and estimated values of parameters.
+3. press 'q' to quit the simulation. After that it generates the plot of real vs estimated values.
 
 
 Dependencies:
 
-Python 3.x
-
-OpenCV (cv2)
-
-NumPy
-
-scipy
-
-matplotlib
+Python 3.x, OpenCV (cv2), NumPy, scipy, matplotlib.
 
 
 Note: Ensure that all dependencies are installed before running the code.
